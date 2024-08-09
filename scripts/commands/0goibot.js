@@ -128,7 +128,7 @@ if ((event.body.toLowerCase() == "Call a aso shobai") || (event.body.toLowerCase
    };
 
    if ((event.body.toLowerCase() == "বট দেও") || (event.body.toLowerCase() == "Banai daw আমক")) {
-     return api.sendMessage("️ তুমি নিজেই বানাই নাও 😒😼, 😌SK Shakil(TOM) অনেক ব্যস্ত্ এক্ষণ", threadID);
+     return api.sendMessage("️ তুমি নিজেই বানাই নাও 😒😼, 😌SK AROSH(TOM) অনেক ব্যস্ত্ এক্ষণ", threadID);
    };
   
    if ((event.body.toLowerCase() == "😒") || (event.body.toLowerCase() == "🙄")) {
